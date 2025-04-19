@@ -12,6 +12,10 @@ All tools, apps, extensions, plugins and related that I use for everything.
 ### Terminals
  - [Kitty](https://sw.kovidgoyal.net/kitty/) - My choice for a terminal - GPU based, fast, works 100% of the time, performant, great config options. Supports background images, not like alacritty.
 
+### ZSH Plugins
+ - [Z](https://github.com/agkozak/zsh-z) - Quickly jump to directories without having to write the full paths.
+ - [Auto suggestions](https://github.com/zsh-users/zsh-autosuggestions) - See autosuggestions directly in the command line.
+
 ### PDFs
  - [PDFGear](https://www.pdfgear.com/share/) - FREE app for working with PDFs on Mac. For me, this works better than the heavy and paid Adobe.
 
